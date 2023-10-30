@@ -33,6 +33,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [pyfiglet](https://pypi.org/project/pyfiglet/)
 
 ## Author
-
-- Av1v
+- Twiiter: [Av1vF](https://twitter.com/Av1vF)
 - GitHub: [Av1v7](https://github.com/Av1v7)
